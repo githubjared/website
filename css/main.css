@@ -1,0 +1,39 @@
+a {
+    text-decoration: underline;
+}
+
+.container {
+    margin: 40px auto;
+    max-width: 350px;
+    text-align: center;
+}
+
+#header {
+    margin-bottom: 25px;
+}
+
+#header h1 {
+    font-weight: bold;
+}
+
+#header p {
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 18px;
+}
+
+#header p.lead {
+    display: none;
+}
+
+#navigation {
+    margin-top: 25px;
+}
+
+#navigation p {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#contact {
+    margin-top: 35px;
+}
